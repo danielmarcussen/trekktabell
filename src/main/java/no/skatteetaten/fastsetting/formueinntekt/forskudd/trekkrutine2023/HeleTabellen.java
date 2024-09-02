@@ -10,6 +10,5 @@ public class HeleTabellen {
         this.alleTrekk = alleTrekk;
         this.overskytendeProsent = overskytendeProsent;
     }
-
 }
 

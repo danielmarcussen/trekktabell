@@ -3,8 +3,8 @@ package no.skatteetaten.fastsetting.formueinntekt.forskudd.trekkrutine2023;
 public class Konstanter {
 
     static final long
-            KLASSE1_VANLIG = 79600L,
-            KLASSE1_FINNMARK = 100150L, // Personfradrag + finnmarksfradrag
+            KLASSE1_VANLIG = 84300L,
+            KLASSE1_FINNMARK = 101500L, // Personfradrag + finnmarksfradrag
             TRINN1 = 198350L,
             TRINN2 = 279150L,
             TRINN3 = 642950L,
@@ -33,7 +33,7 @@ public class Konstanter {
             FELLES_SKATT_VANLIG = 8.40d,
             FELLES_SKATT_FINNMARK = 4.90d,
             SKATTORE = 13.60d,
-            TRYGDE_PROSENT = 25d,
+            TRYGDE_PROSENT = 20d,
             LAV_TRYGDEAVG_PROSENT = 5.1d,
             HOY_TRYGDEAVG_PROSENT = 7.9d,
             ANV_MINSTE_FRAD_PROSENT = 40.48d,
